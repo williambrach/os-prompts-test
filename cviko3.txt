@@ -8,7 +8,7 @@
 YOU CAN'T HARASS CATS.
 
 Download the `prompts.txt` file from:
-   https://raw.githubusercontent.com/williambrach/OSaurusRex/main/prompts.txt
+   https://raw.githubusercontent.com/williambrach/os-prompts-test/refs/heads/main/prompts.txt
 
 1. Open the file in a text editor and add your AIS login (for example, xbrach) at the top of the file.
 
